@@ -1,0 +1,47 @@
+body
+	{
+		background-color:#004c4c;
+	}
+
+h1
+	{
+		background-color:darkkhaki;
+		font-family: 'Redressed', cursive; font-size: 60px;
+		color: white;
+		border: dashed;
+		border-color:#b2d8d8;
+		border-radius: 40px;
+	}
+h2
+	{
+		background-color: 	#66b2b2;
+		font-family: 'Karla', sans-serif; font-size: 40px;
+		color: black;
+		text-align: center;
+		border: solid;
+		border-color: black;
+		border-radius: 50px;
+	}
+p
+	{
+		background-color: darkseagreen;
+		font-size: 30px;
+		text-align: center;
+		color: black;
+		font-family: 'Source Serif Pro', serif;
+		padding: 15px;
+	}
+a:link, a:visited
+{
+	background-color:goldenrod;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 15px;
+}
+a:hover, a:active
+{
+	background-color: black;
+	color: white;
+}
